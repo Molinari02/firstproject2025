@@ -10,6 +10,7 @@ img {
 }
 
 .primeirasecao {
+    display: flex;
     width: 1700px;
     height: 600px;
     background-color: orchid;
