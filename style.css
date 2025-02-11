@@ -5,18 +5,18 @@ img {
 .cabecalho {
     width: 1700px;
     height: 100px;
-    background-color: pink;
+    background-color: hotpink;
 
 }
 
 .primeirasecao {
     width: 1700px;
     height: 600px;
-    background-color: greenyellow;
+    background-color: orchid;
 }
 
 .divisao {
     width: 200px;
     height: 200px;
-    background-color: pink
+    background-color: hotpink
 }
