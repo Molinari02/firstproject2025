@@ -1,18 +1,22 @@
-img{
-width: 200px;
+img {
+    width: 200px;
 }
 
-.cabecalho{
-width: 1400px;
-height:100px;
-background-color: pink;
+.cabecalho {
+    width: 1700px;
+    height: 100px;
+    background-color: pink;
 
 }
-.primeirasecao{
-width: 1400px;
-height:600px;
-background-color: greenyellow;
-}
-.divisao{
 
+.primeirasecao {
+    width: 1400px;
+    height: 600px;
+    background-color: greenyellow;
+}
+
+.divisao {
+    width: 200px;
+    height: 200px;
+    background-color: pink
 }
