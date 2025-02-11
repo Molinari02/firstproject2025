@@ -11,14 +11,14 @@ img {
 
 .primeirasecao {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 1800px;
     height: 600px;
     background-color: orchid;
 }
 
 .divisao {
-    width: 200px;
-    height: 200px;
+    width: 500px;
+    height: 500px;
     background-color: pink
 }
